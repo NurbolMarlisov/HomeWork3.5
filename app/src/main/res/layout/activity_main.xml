@@ -66,7 +66,7 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <View
-        android:id="@id/cirle3"
+        android:id="@+id/circle3"
         android:layout_width="60dp"
         android:layout_height="60dp"
         android:layout_marginStart="72dp"
@@ -76,7 +76,7 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <View
-        android:id="@id/cirle4"
+        android:id="@+id/circle4"
         android:layout_width="120dp"
         android:layout_height="120dp"
         android:layout_marginStart="252dp"
